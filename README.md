@@ -1,4 +1,8 @@
-# VMwareHorizon.command
-Launch Mac VMware Horizon Client (aka VMware view) application multiple times.
-git clone https://github.com/eddiepavkovic/VMwareHorizon.commmand.git
+## VMwareHorizon.command
+### Launch Mac VMware Horizon Client (aka VMware view) application multiple times.
+```
+$ git clone https://github.com/eddiepavkovic/VMwareHorizon.commmand.git
+$ cp VMwareHorzon.command ~/Desktop
+```
+Click on the VMwareHorizon.command icon on desktop to launch new copies of the Horizon Client
 
